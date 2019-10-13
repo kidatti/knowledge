@@ -1,0 +1,3 @@
+- Quip
+  - Document collaborations
+  - https://quip.com/
